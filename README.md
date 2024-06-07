@@ -1,8 +1,8 @@
-# sudo88com/doom
+# sudo88com/doom2
 
 This repository contains the configuration to run the classic game **Doom II** using **DOSBox** within a **Docker** container. This setup provides a consistent environment for playing Doom II across different systems.
 
-### Doom
+### Doom II
 
 - **Developer**: id Software
 - **Release Date**: October 10, 1994
@@ -27,7 +27,7 @@ Doom II, also known as Doom II: Hell on Earth, is a first-person shooter game an
 
 This repository provides a Docker setup to run Doom II in DOSBox, ensuring a consistent and portable environment for gameplay.
 
-## Playing Doom
+## Playing Doom II
 
 To play Doom II using Docker setup:
 
