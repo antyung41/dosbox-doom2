@@ -1,4 +1,4 @@
-# sudo88com/doom2
+# dosbox-doom2
 
 This repository contains the configuration to run the classic game **Doom II** using **DOSBox** within a **Docker** container. This setup provides a consistent environment for playing Doom II across different systems.
 
